@@ -1,0 +1,7 @@
+#Tue Dec 13 09:49:57 EET 2016
+base.0=C\:\\Users\\Gistec\\Downloads\\New folder\\FirstHereApp3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_aaa4e5dac8133f4b77bd8d10a6ce89fed2c588b1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Gistec\\Downloads\\New folder\\FirstHereApp3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d18354190bc1d5a70712b1b7a698bd1ae8a6d239\\classes.dex
+base.1=C\:\\Users\\Gistec\\Downloads\\New folder\\FirstHereApp3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d18354190bc1d5a70712b1b7a698bd1ae8a6d239
+file.0=C\:\\Users\\Gistec\\Downloads\\New folder\\FirstHereApp3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_aaa4e5dac8133f4b77bd8d10a6ce89fed2c588b1\\classes.dex
